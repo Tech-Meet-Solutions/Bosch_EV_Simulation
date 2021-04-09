@@ -6,15 +6,16 @@ market. It is also a country with massive dependency on oil imports, with a USD 
 FY19. Pollution in many Indian cities has reached alarming levels. All these factors combined, make a strong
 case for EV adoption in India.
 # The Team
-![image](https://user-images.githubusercontent.com/66271214/114199576-0d191080-9972-11eb-9216-7c0da844f227.png)
+![image](https://user-images.githubusercontent.com/66271214/114201039-6d5c8200-9973-11eb-8ea9-798960250d15.png)
+
 # Team Members
 - [Barath Krishna S](https://github.com/barathkrishna777)
 - [Nandagopal Vidhu](https://github.com/nandagopal-iitb)
 - [Rishi Kanodia](https://github.com/johnhamishwatson)
-- [Saksham Gupta]
-- [Immanuel Williams]
-- [Gagan Singh]
-- [Vikas Rathaur]
-- [Rachna Tripathi]
+- Saksham Gupta
+- Immanuel Williams
+- Gagan Singh
+- Vikas Rathaur
+- Rachna Tripathi
 
 # The team secured a bronze medal in the specific problem statement and IIT Bombay won the 2nd prize overall!
