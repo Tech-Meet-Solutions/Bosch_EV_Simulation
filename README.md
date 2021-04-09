@@ -18,4 +18,4 @@ case for EV adoption in India.
 - Vikas Rathaur
 - Rachna Tripathi
 
-# The Team secured a Bronze Medal in the Bosch EV Simulation problem statement and the contingent from IIT Bombay bagged the 2nd prize overall!
+# The Team secured a Bronze Medal in the Bosch EV Simulation problem statement and IIT Bombay bagged 2nd place overall!
