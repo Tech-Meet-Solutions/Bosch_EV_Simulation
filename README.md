@@ -1,5 +1,5 @@
 # Bosch Electric Vehicle Simulation
-This repository contains IIT Bombay's solution to the Bosch EV problem statement offered in the 9th Inter IIT Tech Meet, organised by IIT Guwahati.
+This repository contains IIT Bombay's solution to the Bosch EV Simulation problem statement offered in the 9th Inter IIT Tech Meet, organised by IIT Guwahati.
 # Abstract
 India represents the fourth largest automobile market in the world and the second-largest two-wheeler
 market. It is also a country with massive dependency on oil imports, with a USD 112 billion oil import bill in
@@ -18,4 +18,4 @@ case for EV adoption in India.
 - Vikas Rathaur
 - Rachna Tripathi
 
-# The team secured a bronze medal in the specific problem statement and IIT Bombay won the 2nd prize overall!
+# The Team secured a Bronze Medal in the Bosch EV Simulation problem statement and the contingent from IIT Bombay bagged the 2nd prize overall!
